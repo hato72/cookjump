@@ -60,3 +60,4 @@ Rakefile
 /vendor/
 web/.env.local
 web/.env.local.sample
+readme2.md
